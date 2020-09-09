@@ -7,7 +7,8 @@ In this research project, we investigate the ability of open knowledge gf and to
 * "Query": This folder involves several SPARQL queries developed for the paper
 
 ## To cite the work
-Turki, H., Jemielniak, D., Hadj Taieb, M. A., Mietchen, D., Labra Gayo, J. E., Ben Aouicha, M., Banat, M., Shafee, T., & Das, D. (2020). Representing COVID-19 information in collaborative knowledge graphs: a study of Wikidata.
+Houcemeddine Turkia, Mohamed Ali Hadj Taiebb, Thomas Shafeec, Tiago Lubianad, Dariusz Jemielniake, Mohamed Ben Aouichaf, Jose Emilio Labra Gayog, Mus’ab Banath,  Diptanshu Dasi, Daniel Mietchenj,*, on behalf of WikiProject COVID-19k
+Turki, H., Hadj Taieb, M. A., Shafee, T., Lubiana, T., Jemielniak, D., Ben Aouicha, M., Labra Gayo, J. E., Banat, M., Das, D., & Mietchen, D. (2020). Representing COVID-19 information in collaborative knowledge graphs: a study of Wikidata.
 
 ## License
 All statistical data and SPARQL queries are released under CC0 License. This license allows the free reuse of the released data without any copyright restrictions.
