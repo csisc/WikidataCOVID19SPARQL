@@ -3,7 +3,7 @@ A project to represent and visualize COVID-19 information in Wikidata
 
 ## Description
 In this research project, we investigate the ability of open license knowledge graphs to represent COVID-19 information in a fully structured format and to visualize a synthesis of the obtained information using SPARQL. Our study mainly regards the evaluation of this assumption for COVID-19 information in Wikidata. This GitHub repository involves two folders including information supporting the results of this work:
-* "Table": This folder includes the source data of the tables of the study
+* "Source": This folder includes the source data of several figures and tables of the study
 * "Query": This folder involves several SPARQL queries developed for the paper
 
 ## To cite the work
