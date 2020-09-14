@@ -12,7 +12,7 @@ In this research project, we investigate the ability of open license knowledge g
 * "Query": This folder involves sample SPARQL queries developed for the visualization of COVID-19 information in Wikidata. These SPARQL queries are visualized at https://speed.ieee.tn.
 
 ## To cite the work
-Turki, H., Hadj Taieb, M. A., Shafee, T., Lubiana, T., Jemielniak, D., Ben Aouicha, M., Labra Gayo, J. E., Banat, M., Das, D., & Mietchen, D. (2020). Representing COVID-19 information in collaborative knowledge graphs: a study of Wikidata. Zenodo. doi:10.5281/zenodo.4028483.
+Turki, H., Hadj Taieb, M. A., Shafee, T., Lubiana, T., Jemielniak, D., Ben Aouicha, M., Labra Gayo, J. E., Banat, M., Das, D., & Mietchen, D. (2020). Representing COVID-19 information in collaborative knowledge graphs: a study of Wikidata. *Zenodo*. doi:10.5281/zenodo.4028483.
 
 ## License
 All statistical data and SPARQL queries are released under CC0 License. This license allows the free reuse of the released data without any copyright restrictions.
